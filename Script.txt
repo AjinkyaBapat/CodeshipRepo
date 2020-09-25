@@ -1,4 +1,4 @@
 #Script to be used
 
 
-echo "Build Success"
+echo "Build Successas"

@@ -7,3 +7,4 @@ Built using codeship.
 
 CI/CD
 Docker
+K8s

@@ -9,3 +9,4 @@ CI/CD
 Docker
 K8s
 Ansible
+Terraform
